@@ -1,5 +1,4 @@
 import { PrettyChatWindow } from "react-chat-engine-pretty"
-import 'dotenv/config'
 
 const ChatsPage = (properties) => {
   const username = properties.user.username
