@@ -18,7 +18,7 @@ once you have the Project ID and the Private Key, put them inside the '.env' fil
    
 2. Start the backend server.
    
-  ```npm start```
+   ```npm start```
 
 Now, your backend server should be up and running.
 
@@ -26,11 +26,11 @@ Now, your backend server should be up and running.
 
 1. Navigate to the frontend folder in your terminal.
    
-  ```npm run dev```
+   ```npm run dev```
   
 2. Start the development server.
    
-  ```npm run build```
+   ```npm run build```
   
 3. Follow the instructions provided by the development server to access the application.
 
