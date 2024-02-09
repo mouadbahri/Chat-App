@@ -13,18 +13,18 @@ once you have the Project ID and the Private Key, put them inside the '.env' fil
 ## Backend
 
 1. Navigate to the backend folder in your terminal.
-   '''cd backend'''
+   ```cd backend```
 2. Start the backend server.
-  '''npm start'''
+  ```npm start```
 
 Now, your backend server should be up and running.
 
 ## Frontend
 
 1. Navigate to the frontend folder in your terminal.
-  '''npm run dev'''
+  ```npm run dev```
 2. Start the development server.
-  '''npm run build'''
+  ```npm run build```
 3. Follow the instructions provided by the development server to access the application.
 
 Congratulations! Your Chat-App is now set up and ready for use. Open the provided URL to start chatting with friends and colleagues. Customize the application further as needed for your specific use case.
